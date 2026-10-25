@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		
+		<title>Hosting</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://miner-control.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Kommentar-Feed" href="https://miner-control.com/comments/feed/" />
+<link rel="preload" href="https://miner-control.com/wp-content/plugins/real-cookie-banner/public/dist/vendor-banner.lite.js?ver=2ccc2f627c37ea15111c2e15187d2c21" as="script" />
+<link rel="preload" href="https://miner-control.com/wp-content/plugins/real-cookie-banner/public/dist/banner.lite.js?ver=51cc31eda984d4c2b929fb428932820e" as="script" />
+<link rel="preload" href="https://miner-control.com/wp-content/plugins/real-cookie-banner/public/lib/animate.css/animate.min.css?ver=4.1.1" as="style" />
+<script type='text/javascript' defer src='https://miner-control.com/wp-content/plugins/real-cookie-banner/public/dist/vendor-banner.lite.js?ver=2ccc2f627c37ea15111c2e15187d2c21' ></script>
+<script type="application/json" data-skip-moving="true" data-no-defer nitro-exclude data-alt-type="application/ld+json" data-dont-merge id="a977dafeb6e5b9da815aed5898c1bf4231-js-extra">{"slug":"real-cookie-banner","textDomain":"real-cookie-banner","version":"3.13.1","restUrl":"https:\/\/miner-control.com\/wp-json\/real-cookie-banner\/v1\/","restNamespace":"real-cookie-banner\/v1","restPathObfuscateOffset":"48b0c646bf5a8e3aed55d43145c92096","restRoot":"https:\/\/miner-control.com\/wp-json\/","restQuery":{"_v":"3.13.1","_locale":"user"},"restNonce":"c6db2ffd96","restRecreateNonceEndpoint":"https:\/\/miner-control.com\/wp-admin\/admin-ajax.php?action=rest-nonce","publicUrl":"https:\/\/miner-control.com\/wp-content\/plugins\/real-cookie-banner\/public\/","chunkFolder":"dist","chunksLanguageFolder":"https:\/\/miner-control.com\/wp-content\/plugins\/real-cookie-banner\/languages","chunks":{"chunk-config-tab-blocker.lite.js":["de_DE-83d48f038e1cf6148175589160cda67e","de_DE-f3fcf9c7b6337a888377b3e3597480a5","de_DE-c334cb68401b6dd1377f2319e85b7217"],"chunk-config-tab-blocker.pro.js":["de_DE-ddf5ae983675e7b6eec2afc2d53654a2","de_DE-3a3b30d579f8ab341e490ceed0c58154","de_DE-4f76e19e02d79cbffe021f52eabc364f"],"chunk-config-tab-consent.lite.js":["de_DE-3823d7521a3fc2857511061e0d660408"],"chunk-config-tab-consent.pro.js":["de_DE-9cb9ecf8c1e8ce14036b5f3a5e19f098","de_DE-3a3b30d579f8ab341e490ceed0c58154","de_DE-d4b21727148c9f79fc0be49f47d3800f"],"chunk-config-tab-cookies.lite.js":["de_DE-1a51b37d0ef409906245c7ed80d76040","de_DE-f3fcf9c7b6337a888377b3e3597480a5","de_DE-c334cb68401b6dd1377f2319e85b7217"],"chunk-config-tab-cookies.pro.js":["de_DE-572ee75deed92e7a74abba4b86604687","de_DE-3a3b30d579f8ab341e490ceed0c58154","de_DE-4f76e19e02d79cbffe021f52eabc364f"],"chunk-config-tab-dashboard.lite.js":["de_DE-f843c51245ecd2b389746275b3da66b6"],"chunk-config-tab-dashboard.pro.js":["de_DE-ae5ae8f925f0409361cfe395645ac077"],"chunk-config-tab-import.lite.js":["de_DE-66df94240f04843e5a208823e466a850"],"chunk-config-tab-import.pro.js":["de_DE-e5fee6b51986d4ff7a051d6f6a7b076a"],"chunk-config-tab-licensing.lite.js":["de_DE-e01f803e4093b19d6787901b9591b5a6"],"chunk-config-tab-licensing.pro.js":["de_DE-4918ea9704f47c2055904e4104d4ffba"],"chunk-config-tab-scanner.lite.js":["de_DE-b10b39f1099ef599835c729334e38429"],"chunk-config-tab-scanner.pro.js":["de_DE-752a1502ab4f0bebfa2ad50c68ef571f"],"chunk-config-tab-settings.lite.js":["de_DE-37978e0b06b4eb18b16164a2d9c93a2c"],"chunk-config-tab-settings.pro.js":["de_DE-e59d3dcc762e276255c8989fbd1f80e3"],"chunk-config-tab-tcf.lite.js":["de_DE-4f658bdbf0aa370053460bc9e3cd1f69","de_DE-f3fcf9c7b6337a888377b3e3597480a5"],"chunk-config-tab-tcf.pro.js":["de_DE-e1e83d5b8a28f1f91f63b9de2a8b181a","de_DE-3a3b30d579f8ab341e490ceed0c58154","de_DE-d4b21727148c9f79fc0be49f47d3800f"]},"others":{"customizeValuesBanner":{"layout":{"type":"banner","dialogMaxWidth":530,"dialogPosition":"middleCenter","dialogMargin":[0,0,0,0],"bannerPosition":"bottom","bannerMaxWidth":1024,"dialogBorderRadius":3,"borderRadius":5,"animationIn":"slideInUp","animationInDuration":500,"animationInOnlyMobile":true,"animationOut":"none","animationOutDuration":500,"animationOutOnlyMobile":true,"overlay":true,"overlayBg":"#000000","overlayBgAlpha":38,"overlayBlur":2},"decision":{"acceptAll":"button","acceptEssentials":"button","showCloseIcon":false,"acceptIndividual":"button","buttonOrder":"all,essential,save,individual","showGroups":false,"groupsFirstView":false,"saveButton":"always"},"design":{"bg":"#ffffff","textAlign":"center","linkTextDecoration":"underline","borderWidth":0,"borderColor":"#ffffff","fontSize":13,"fontColor":"#2b2b2b","fontInheritFamily":true,"fontFamily":"Arial, Helvetica, sans-serif","fontWeight":"normal","boxShadowEnabled":true,"boxShadowOffsetX":0,"boxShadowOffsetY":5,"boxShadowBlurRadius":13,"boxShadowSpreadRadius":0,"boxShadowColor":"#000000","boxShadowColorAlpha":20},"headerDesign":{"inheritBg":true,"bg":"#f4f4f4","inheritTextAlign":true,"textAlign":"center","padding":[17,20,15,20],"logo":"","logoRetina":"","logoMaxHeight":40,"logoPosition":"left","logoMargin":[5,15,5,15],"fontSize":20,"fontColor":"#2b2b2b","fontInheritFamily":true,"fontFamily":"Arial, Helvetica, sans-serif","fontWeight":"normal","borderWidth":1,"borderColor":"#efefef"},"bodyDesign":{"padding":[15,20,5,20],"descriptionInheritFontSize":true,"descriptionFontSize":13,"dottedGroupsInheritFontSize":true,"dottedGroupsFontSize":13,"dottedGroupsBulletColor":"#15779b","teachingsInheritTextAlign":true,"teachingsTextAlign":"center","teachingsSeparatorActive":true,"teachingsSeparatorWidth":50,"teachingsSeparatorHeight":1,"teachingsSeparatorColor":"#15779b","teachingsInheritFontSize":false,"teachingsFontSize":12,"teachingsInheritFontColor":false,"teachingsFontColor":"#7c7c7c","acceptAllOneRowLayout":false,"acceptAllPadding":[10,10,10,10],"acceptAllBg":"#15779b","acceptAllTextAlign":"center","acceptAllFontSize":18,"acceptAllFontColor":"#ffffff","acceptAllFontWeight":"normal","acceptAllBorderWidth":0,"acceptAllBorderColor":"#000000","acceptAllHoverBg":"#11607d","acceptAllHoverFontColor":"#ffffff","acceptAllHoverBorderColor":"#000000","acceptEssentialsUseAcceptAll":true,"acceptEssentialsButtonType":"","acceptEssentialsPadding":[10,10,10,10],"acceptEssentialsBg":"#efefef","acceptEssentialsTextAlign":"center","acceptEssentialsFontSize":18,"acceptEssentialsFontColor":"#0a0a0a","acceptEssentialsFontWeight":"normal","acceptEssentialsBorderWidth":0,"acceptEssentialsBorderColor":"#000000","acceptEssentialsHoverBg":"#e8e8e8","acceptEssentialsHoverFontColor":"#000000","acceptEssentialsHoverBorderColor":"#000000","acceptIndividualPadding":[5,5,5,5],"acceptIndividualBg":"#ffffff","acceptIndividualTextAlign":"center","acceptIndividualFontSize":15,"acceptIndividualFontColor":"#15779b","acceptIndividualFontWeight":"normal","acceptIndividualBorderWidth":0,"acceptIndividualBorderColor":"#000000","acceptIndividualHoverBg":"#ffffff","acceptIndividualHoverFontColor":"#11607d","acceptIndividualHoverBorderColor":"#000000"},"footerDesign":{"poweredByLink":true,"inheritBg":false,"bg":"#fcfcfc","inheritTextAlign":true,"textAlign":"center","padding":[10,20,15,20],"fontSize":14,"fontColor":"#7c7c7c","fontInheritFamily":true,"fontFamily":"Arial, Helvetica, sans-serif","fontWeight":"normal","hoverFontColor":"#2b2b2b","borderWidth":1,"borderColor":"#efefef","languageSwitcher":"flags"},"texts":{"headline":"Privatsph\u00e4re-Einstellungen","description":"Wir verwenden Cookies und \u00e4hnliche Technologien auf unserer Website und verarbeiten personenbezogene Daten von dir (z.B. IP-Adresse), um z.B. Inhalte und Anzeigen zu personalisieren, Medien von Drittanbietern einzubinden oder Zugriffe auf unsere Website zu analysieren. Die Datenverarbeitung kann auch erst in Folge gesetzter Cookies stattfinden. Wir teilen diese Daten mit Dritten, die wir in den Privatsph\u00e4re-Einstellungen benennen.<br \/><br \/>Die Datenverarbeitung kann mit deiner Einwilligung oder auf Basis eines berechtigten Interesses erfolgen, dem du in den Privatsph\u00e4re-Einstellungen widersprechen kannst. Du hast das Recht, nicht einzuwilligen und deine Einwilligung zu einem sp\u00e4teren Zeitpunkt zu \u00e4ndern oder zu widerrufen. Weitere Informationen zur Verwendung deiner Daten findest du in unserer {{privacyPolicy}}Datenschutzerkl\u00e4rung{{\/privacyPolicy}}.","acceptAll":"Alle akzeptieren","acceptEssentials":"Weiter ohne Einwilligung","acceptIndividual":"Privatsph\u00e4re-Einstellungen individuell festlegen","poweredBy":"1","dataProcessingInUnsafeCountries":"Einige Dienste verarbeiten personenbezogene Daten in unsicheren Drittl\u00e4ndern. Indem du in die Nutzung dieser Services einwilligst, erkl\u00e4rst du dich auch mit der Verarbeitung deiner Daten in diesen unsicheren Drittl\u00e4ndern gem\u00e4\u00df {{legalBasis}} einverstanden. Dies birgt das Risiko, dass deine Daten von Beh\u00f6rden zu Kontroll- und \u00dcberwachungszwecken verarbeitet werden, m\u00f6glicherweise ohne die M\u00f6glichkeit eines Rechtsbehelfs.","ageNoticeBanner":"Du bist unter {{minAge}} Jahre alt? Dann kannst du nicht in optionale Services einwilligen. Du kannst deine Eltern oder Erziehungsberechtigten bitten, mit dir in diese Services einzuwilligen.","ageNoticeBlocker":"Du bist unter {{minAge}} Jahre alt? Leider darfst du diesem Service nicht selbst zustimmen, um diese Inhalte zu sehen. Bitte deine Eltern oder Erziehungsberechtigten, dem Service mit dir zuzustimmen!","listServicesNotice":"Wenn du alle Services akzeptierst, erlaubst du, dass {{services}} geladen werden. Diese sind nach ihrem Zweck in Gruppen {{serviceGroups}} unterteilt (Zugeh\u00f6rigkeit durch hochgestellte Zahlen gekennzeichnet).","listServicesLegitimateInterestNotice":"Au\u00dferdem werden die {{services}} auf der Grundlage eines berechtigten Interesses geladen.","consentForwardingExternalHosts":"Deine Einwilligung gilt auch auf {{websites}}.","blockerHeadline":"{{name}} aufgrund von Privatsph\u00e4re-Einstellungen blockiert","blockerLinkShowMissing":"Zeige alle Services, denen du noch zustimmen musst","blockerLoadButton":"Services akzeptieren und Inhalte laden","blockerAcceptInfo":"Wenn du die blockierten Inhalte l\u00e4dst, werden deine Datenschutzeinstellungen angepasst. Inhalte aus diesem Service werden in Zukunft nicht mehr blockiert."},"individualLayout":{"inheritDialogMaxWidth":false,"dialogMaxWidth":970,"inheritBannerMaxWidth":true,"bannerMaxWidth":1980,"descriptionTextAlign":"left"},"group":{"checkboxBg":"#f0f0f0","checkboxBorderWidth":1,"checkboxBorderColor":"#d2d2d2","checkboxActiveColor":"#ffffff","checkboxActiveBg":"#15779b","checkboxActiveBorderColor":"#11607d","groupInheritBg":true,"groupBg":"#f4f4f4","groupPadding":[15,15,15,15],"groupSpacing":10,"groupBorderRadius":5,"groupBorderWidth":1,"groupBorderColor":"#f4f4f4","headlineFontSize":16,"headlineFontWeight":"normal","headlineFontColor":"#2b2b2b","descriptionFontSize":14,"descriptionFontColor":"#7c7c7c","linkColor":"#7c7c7c","linkHoverColor":"#2b2b2b"},"saveButton":{"useAcceptAll":true,"type":"button","padding":[10,10,10,10],"bg":"#efefef","textAlign":"center","fontSize":18,"fontColor":"#0a0a0a","fontWeight":"normal","borderWidth":0,"borderColor":"#000000","hoverBg":"#e8e8e8","hoverFontColor":"#000000","hoverBorderColor":"#000000"},"individualTexts":{"headline":"Individuelle Privatsph\u00e4re-Einstellungen","description":"Wir verwenden Cookies und \u00e4hnliche Technologien auf unserer Website und verarbeiten personenbezogene Daten von dir (z.B. IP-Adresse), um z.B. Inhalte und Anzeigen zu personalisieren, Medien von Drittanbietern einzubinden oder Zugriffe auf unsere Website zu analysieren. Die Datenverarbeitung kann auch erst in Folge gesetzter Cookies stattfinden. Wir teilen diese Daten mit Dritten, die wir in den Privatsph\u00e4re-Einstellungen benennen.<br \/><br \/>Die Datenverarbeitung kann mit deiner Einwilligung oder auf Basis eines berechtigten Interesses erfolgen, dem du in den Privatsph\u00e4re-Einstellungen widersprechen kannst. Du hast das Recht, nicht einzuwilligen und deine Einwilligung zu einem sp\u00e4teren Zeitpunkt zu \u00e4ndern oder zu widerrufen. Weitere Informationen zur Verwendung deiner Daten findest du in unserer {{privacyPolicy}}Datenschutzerkl\u00e4rung{{\/privacyPolicy}}.<br \/><br \/>Im Folgenden findest du eine \u00dcbersicht \u00fcber alle Services, die von dieser Website genutzt werden. Du kannst dir detaillierte Informationen zu jedem Service ansehen und ihm einzeln zustimmen oder von deinem Widerspruchsrecht Gebrauch machen.","save":"Individuelle Auswahlen speichern","showMore":"Service-Informationen anzeigen","hideMore":"Service-Informationen ausblenden","postamble":""},"mobile":{"enabled":true,"maxHeight":400,"hideHeader":false,"alignment":"bottom","scalePercent":90,"scalePercentVertical":-50},"customCss":{"css":"","antiAdBlocker":"y"}},"isPro":false,"showProHints":false,"proUrl":"https:\/\/devowl.io\/de\/go\/real-cookie-banner?source=rcb-lite","showLiteNotice":true,"languageSwitcher":[],"hasDynamicPreDecisions":false,"isLicensed":true,"isDevLicense":false,"multilingualSkipHTMLForTag":"","isCurrentlyInTranslationEditorPreview":false,"defaultLanguage":"","currentLanguage":"","activeLanguages":[],"context":"","userConsentCookieName":"real_cookie_banner-v:3_blog:1_path:97bc692","revisionHash":"2661941d40a75a99767b48bd7569f0bd","iso3166OneAlpha2":{"AF":"Afghanistan","AL":"Albanien","DZ":"Algerien","AS":"Amerikanisch-Samoa","AD":"Andorra","AO":"Angola","AI":"Anguilla","AQ":"Antarktis","AG":"Antigua und Barbuda","AR":"Argentinien","AM":"Armenien","AW":"Aruba","AZ":"Aserbaidschan","AU":"Australien","BS":"Bahamas","BH":"Bahrain","BD":"Bangladesch","BB":"Barbados","BY":"Belarus","BE":"Belgien","BZ":"Belize","BJ":"Benin","BM":"Bermuda","BT":"Bhutan","BO":"Bolivien","BA":"Bosnien und Herzegowina","BW":"Botswana","BV":"Bouvetinsel","BR":"Brasilien","IO":"Britisches Territorium im Indischen Ozean","BN":"Brunei Darussalam","BG":"Bulgarien","BF":"Burkina Faso","BI":"Burundi","CL":"Chile","CN":"China","CK":"Cookinseln","CR":"Costa Rica","DE":"Deutschland","LA":"Die Laotische Demokratische Volksrepublik","DM":"Dominica","DO":"Dominikanische Republik","DJ":"Dschibuti","DK":"D\u00e4nemark","EC":"Ecuador","SV":"El Salvador","ER":"Eritrea","EE":"Estland","FK":"Falklandinseln (Malwinen)","FJ":"Fidschi","FI":"Finnland","FR":"Frankreich","GF":"Franz\u00f6sisch-Guayana","PF":"Franz\u00f6sisch-Polynesien","TF":"Franz\u00f6sische S\u00fcd- und Antarktisgebiete","FO":"F\u00e4r\u00f6er Inseln","FM":"F\u00f6derierte Staaten von Mikronesien","GA":"Gabun","GM":"Gambia","GE":"Georgien","GH":"Ghana","GI":"Gibraltar","GD":"Grenada","GR":"Griechenland","GL":"Gr\u00f6nland","GP":"Guadeloupe","GU":"Guam","GT":"Guatemala","GG":"Guernsey","GN":"Guinea","GW":"Guinea-Bissau","GY":"Guyana","HT":"Haiti","HM":"Heard und die McDonaldinseln","VA":"Heiliger Stuhl (Staat Vatikanstadt)","HN":"Honduras","HK":"Hong Kong","IN":"Indien","ID":"Indonesien","IQ":"Irak","IE":"Irland","IR":"Islamische Republik Iran","IS":"Island","IM":"Isle of Man","IL":"Israel","IT":"Italien","JM":"Jamaika","JP":"Japan","YE":"Jemen","JE":"Jersey","JO":"Jordanien","VG":"Jungferninseln, Britisch","VI":"Jungferninseln, U.S.","KY":"Kaimaninseln","KH":"Kambodscha","CM":"Kamerun","CA":"Kanada","CV":"Kap Verde","KZ":"Kasachstan","QA":"Katar","KE":"Kenia","KG":"Kirgisistan","KI":"Kiribati","UM":"Kleinere Inselbesitzungen der Vereinigten Staaten","CC":"Kokosinseln","CO":"Kolumbien","KM":"Komoren","CG":"Kongo","CD":"Kongo, Demokratische Republik","KR":"Korea","HR":"Kroatien","CU":"Kuba","KW":"Kuwait","LS":"Lesotho","LV":"Lettland","LB":"Libanon","LR":"Liberia","LY":"Libysch-Arabische Dschamahirija","LI":"Liechtenstein","LT":"Litauen","LU":"Luxemburg","MO":"Macao","MG":"Madagaskar","MW":"Malawi","MY":"Malaysia","MV":"Malediven","ML":"Mali","MT":"Malta","MA":"Marokko","MH":"Marshallinseln","MQ":"Martinique","MR":"Mauretanien","MU":"Mauritius","YT":"Mayotte","MK":"Mazedonien","MX":"Mexiko","MD":"Moldawien","MC":"Monaco","MN":"Mongolei","ME":"Montenegro","MS":"Montserrat","MZ":"Mosambik","MM":"Myanmar","NA":"Namibia","NR":"Nauru","NP":"Nepal","NC":"Neukaledonien","NZ":"Neuseeland","NI":"Nicaragua","NL":"Niederlande","AN":"Niederl\u00e4ndische Antillen","NE":"Niger","NG":"Nigeria","NU":"Niue","KP":"Nordkorea","NF":"Norfolkinsel","NO":"Norwegen","MP":"N\u00f6rdliche Marianen","OM":"Oman","PK":"Pakistan","PW":"Palau","PS":"Pal\u00e4stinensisches Gebiet, besetzt","PA":"Panama","PG":"Papua-Neuguinea","PY":"Paraguay","PE":"Peru","PH":"Philippinen","PN":"Pitcairn","PL":"Polen","PT":"Portugal","PR":"Puerto Rico","CI":"Republik C\u00f4te d'Ivoire","RW":"Ruanda","RO":"Rum\u00e4nien","RU":"Russische F\u00f6deration","RE":"R\u00e9union","BL":"Saint Barth\u00e9l\u00e9my","PM":"Saint Pierre und Miquelo","SB":"Salomonen","ZM":"Sambia","WS":"Samoa","SM":"San Marino","SH":"Sankt Helena","MF":"Sankt Martin","SA":"Saudi-Arabien","SE":"Schweden","CH":"Schweiz","SN":"Senegal","RS":"Serbien","SC":"Seychellen","SL":"Sierra Leone","ZW":"Simbabwe","SG":"Singapur","SK":"Slowakei","SI":"Slowenien","SO":"Somalia","ES":"Spanien","LK":"Sri Lanka","KN":"St. Kitts und Nevis","LC":"St. Lucia","VC":"St. Vincent und Grenadinen","SD":"Sudan","SR":"Surinam","SJ":"Svalbard und Jan Mayen","SZ":"Swasiland","SY":"Syrische Arabische Republik","ST":"S\u00e3o Tom\u00e9 und Pr\u00edncipe","ZA":"S\u00fcdafrika","GS":"S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln","TJ":"Tadschikistan","TW":"Taiwan","TZ":"Tansania","TH":"Thailand","TL":"Timor-Leste","TG":"Togo","TK":"Tokelau","TO":"Tonga","TT":"Trinidad und Tobago","TD":"Tschad","CZ":"Tschechische Republik","TN":"Tunesien","TM":"Turkmenistan","TC":"Turks- und Caicosinseln","TV":"Tuvalu","TR":"T\u00fcrkei","UG":"Uganda","UA":"Ukraine","HU":"Ungarn","UY":"Uruguay","UZ":"Usbekistan","VU":"Vanuatu","VE":"Venezuela","AE":"Vereinigte Arabische Emirate","US":"Vereinigte Staaten","GB":"Vereinigtes K\u00f6nigreich","VN":"Vietnam","WF":"Wallis und Futuna","CX":"Weihnachtsinsel","EH":"Westsahara","CF":"Zentralafrikanische Republik","CY":"Zypern","EG":"\u00c4gypten","GQ":"\u00c4quatorialguinea","ET":"\u00c4thiopien","AX":"\u00c5land Inseln","AT":"\u00d6sterreich"},"isTcf":false,"isPreventPreDecision":false,"isAcceptAllForBots":true,"isRespectDoNotTrack":false,"isDataProcessingInUnsafeCountries":false,"dataProcessingInUnsafeCountriesSafeCountries":["GDPR","ADEQUACY"],"isAgeNotice":true,"ageNoticeAgeLimit":16,"isListServicesNotice":true,"setCookiesViaManager":"none","territorialLegalBasis":["gdpr-eprivacy"],"essentialGroup":"essenziell","groups":[{"id":10,"name":"Essenziell","slug":"essenziell","description":"Essenzielle Services sind f\u00fcr die grundlegende Funktionalit\u00e4t der Website erforderlich. Sie enthalten nur technisch notwendige Services. Diesen Services kann nicht widersprochen werden.","items":[{"id":191,"name":"Real Cookie Banner","purpose":"Real Cookie Banner bittet Website-Besucher um die Einwilligung zum Setzen von Cookies und zur Verarbeitung personenbezogener Daten. Dazu wird jedem Website-Besucher eine UUID (pseudonyme Identifikation des Nutzers) zugewiesen, die bis zum Ablauf des Cookies zur Speicherung der Einwilligung g\u00fcltig ist. Cookies werden dazu verwendet, um zu testen, ob Cookies gesetzt werden k\u00f6nnen, um Referenz auf die dokumentierte Einwilligung zu speichern, um zu speichern, in welche Services aus welchen Service-Gruppen der Besucher eingewilligt hat, und, falls Einwilligung nach dem Transparency & Consent Framework (TCF) eingeholt werden, um die Einwilligungen in TCF Partner, Zwecke, besondere Zwecke, Funktionen und besondere Funktionen zu speichern. Im Rahmen der Darlegungspflicht nach DSGVO wird die erhobene Einwilligung vollumf\u00e4nglich dokumentiert. Dazu z\u00e4hlt neben den Services und Service-Gruppen, in welche der Besucher eingewilligt hat, und falls Einwilligung nach dem TCF Standard eingeholt werden, in welche TCF Partner, Zwecke und Funktionen der Besucher eingewilligt hat, alle Einstellungen des Cookie Banners zum Zeitpunkt der Einwilligung als auch die technischen Umst\u00e4nde (z.B. Gr\u00f6\u00dfe des Sichtbereichs bei der Einwilligung) und die Nutzerinteraktionen (z.B. Klick auf Buttons), die zur Einwilligung gef\u00fchrt haben. Die Einwilligung wird pro Sprache einmal erhoben.","providerContact":{"phone":"","email":"","link":""},"isProviderCurrentWebsite":true,"provider":"","uniqueName":"","isEmbeddingOnlyExternalResources":false,"legalBasis":"legal-requirement","dataProcessingInCountries":[],"dataProcessingInCountriesSpecialTreatments":[],"technicalDefinitions":[{"type":"http","name":"real_cookie_banner*","host":".live-website.com","duration":365,"durationUnit":"d","isSessionDuration":false},{"type":"http","name":"real_cookie_banner*-tcf","host":".live-website.com","duration":365,"durationUnit":"d","isSessionDuration":false},{"type":"http","name":"real_cookie_banner-test","host":".live-website.com","duration":365,"durationUnit":"d","isSessionDuration":false}],"codeDynamics":[],"providerPrivacyPolicyUrl":"https:\/\/miner-control.com\/privacy-policy\/","providerLegalNoticeUrl":"https:\/\/miner-control.com\/legal-notice\/","tagManagerOptInEventName":"","tagManagerOptOutEventName":"","codeOptIn":"","executeCodeOptInWhenNoTagManagerConsentIsGiven":false,"codeOptOut":"","executeCodeOptOutWhenNoTagManagerConsentIsGiven":false,"deleteTechnicalDefinitionsAfterOptOut":false,"codeOnPageLoad":"","presetId":"real-cookie-banner"}]}],"bannerLinks":[{"id":627,"label":"Datenschutzerkl\u00e4rung","pageType":"privacyPolicy","url":"https:\/\/miner-control.com\/privacy-policy\/","hideCookieBanner":true,"isTargetBlank":true},{"id":628,"label":"Impressum","pageType":"legalNotice","url":"https:\/\/miner-control.com\/legal-notice\/","hideCookieBanner":true,"isTargetBlank":true}],"websiteOperator":{"address":"","country":"","contactEmail":"base64-encoded:cGF0cmljay5kb2VwZm5lckB0LW9ubGluZS5kZQ==","contactPhone":"","contactFormUrl":"https:\/\/miner-control.com\/hosting\/"},"blocker":[],"setVisualParentIfClassOfParent":{"et_pb_video_box":1,"ast-oembed-container":1,"wpb_video_wrapper":1},"dependantVisibilityContainers":["[role=\"tabpanel\"]",".eael-tab-content-item",".wpcs_content_inner",".op3-contenttoggleitem-content",".pum-overlay","[data-elementor-type=\"popup\"]",".wp-block-ub-content-toggle-accordion-content-wrap",".w-popup-wrap",".oxy-lightbox_inner[data-inner-content=true]",".oxy-pro-accordion_body",".oxy-tab-content",".kt-accordion-panel",".vc_tta-panel-body",".mfp-hide"],"bannerDesignVersion":6,"bannerI18n":{"appropriateSafeguard":"Geeignete Garantien","standardContractualClauses":"Standardvertragsklauseln","legalBasis":"Verwendung auf gesetzlicher Grundlage von","territorialLegalBasisArticles":{"gdpr-eprivacy":{"dataProcessingInUnsafeCountries":"Art. 49 Abs. 1 lit. a DSGVO"},"dsg-switzerland":{"dataProcessingInUnsafeCountries":"Art. 17 Abs. 1 lit. a DSG (Schweiz)"}},"legitimateInterest":"Berechtigtes Interesse","legalRequirement":"Erf\u00fcllung einer rechtlichen Verpflichtung","consent":"Einwilligung","crawlerLinkAlert":"Wir haben erkannt, dass du ein Crawler\/Bot bist. Nur nat\u00fcrliche Personen d\u00fcrfen in Cookies und die Verarbeitung von personenbezogenen Daten einwilligen. Daher hat der Link f\u00fcr dich keine Funktion.","technicalCookieDefinition":"Technische Cookie-Definition","usesCookies":"Verwendete Cookies","cookieRefresh":"Cookie-Auffrischung","usesNonCookieAccess":"Verwendet Cookie-\u00e4hnliche Informationen (LocalStorage, SessionStorage, IndexDB, etc.)","host":"Host","duration":"Dauer","noExpiration":"Kein Ablauf","type":"Typ","purpose":"Zweck","headerTitlePrivacyPolicyHistory":"Privatsph\u00e4re-Einstellungen: Historie","skipToConsentChoices":"Zu Einwilligungsoptionen springen","historyLabel":"Einwilligungen anzeigen vom","historySelectNone":"Noch nicht eingewilligt","provider":"Anbieter","providerContactPhone":"Telefon","providerContactEmail":"E-Mail","providerContactLink":"Kontaktformular","providerPrivacyPolicyUrl":"Datenschutzerkl\u00e4rung","providerLegalNoticeUrl":"Impressum","dataProcessingInUnsafeCountries":"Datenverarbeitung in unsicheren Drittl\u00e4ndern","ePrivacyUSA":"US-Datenverarbeitung","durationUnit":{"s":"Sekunde(n)","m":"Minute(n)","h":"Stunde(n)","d":"Tag(e)","mo":"Monat(e)","y":"Jahr(e)","n1":{"s":"Sekunde","m":"Minute","h":"Stunde","d":"Tag","mo":"Monat","y":"Jahr"},"nx":{"s":"Sekunden","m":"Minuten","h":"Stunden","d":"Tage","mo":"Monate","y":"Jahre"}},"close":"Schlie\u00dfen","closeWithoutSaving":"Schlie\u00dfen ohne Speichern","yes":"Ja","no":"Nein","unknown":"Unbekannt","none":"Nichts","noLicense":"Keine Lizenz aktiviert - kein Produktionseinsatz!","devLicense":"Produktlizenz nicht f\u00fcr den Produktionseinsatz!","devLicenseLearnMore":"Mehr erfahren","devLicenseLink":"https:\/\/devowl.io\/de\/wissensdatenbank\/lizenz-installations-typ\/","andSeparator":" und "},"pageRequestUuid4":"a65c9ec13-8b10-4914-ab86-18b3a5fc12fc","pageByIdUrl":"https:\/\/miner-control.com?page_id","pluginUrl":"https:\/\/devowl.io\/wordpress-real-cookie-banner\/"}}</script>
+<script data-skip-moving="true" data-no-defer nitro-exclude data-alt-type="application/ld+json" data-dont-merge id="a977dafeb6e5b9da815aed5898c1bf4232-js-extra">var realCookieBanner = /* document.write */ JSON.parse(document.getElementById("a977dafeb6e5b9da815aed5898c1bf4231-js-extra").innerHTML, function (a,b){return-1<["codeOptIn","codeOptOut","codeOnPageLoad","contactEmail"].indexOf(a)&&"string"==typeof b&&b.startsWith("base64-encoded:")?window.atob(b.substr(15)):b});</script><script id="real-cookie-banner-banner-js-before" type="text/javascript">
+((a,b)=>{a[b]||(a[b]={unblockSync:()=>undefined},["consentSync"].forEach(c=>a[b][c]=()=>({cookie:null,consentGiven:!1,cookieOptIn:!0})),["consent","consentAll","unblock"].forEach(c=>a[b][c]=(...d)=>new Promise(e=>a.addEventListener(b,()=>{a[b][c](...d).then(e)},{once:!0}))))})(window,"consentApi");
+</script>
+<script type='text/javascript' defer src='https://miner-control.com/wp-content/plugins/real-cookie-banner/public/dist/banner.lite.js?ver=51cc31eda984d4c2b929fb428932820e' ></script>
+<link rel='stylesheet' id='animate-css-css' href='https://miner-control.com/wp-content/plugins/real-cookie-banner/public/lib/animate.css/animate.min.css?ver=4.1.1' type='text/css' media='all' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/miner-control.com\/wp-includes\/js\/wp-emoji.js?ver=6.3","twemoji":"https:\/\/miner-control.com\/wp-includes\/js\/twemoji.js?ver=6.3"}};
+/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+/**
+ * Emoji Settings as exported in PHP via _print_emoji_detection_script().
+ * @typedef WPEmojiSettings
+ * @type {object}
+ * @property {?object} source
+ * @property {?string} source.concatemoji
+ * @property {?string} source.twemoji
+ * @property {?string} source.wpemoji
+ * @property {?boolean} DOMReady
+ * @property {?Function} readyCallback
+ */
+
+/**
+ * Support tests.
+ * @typedef SupportTests
+ * @type {object}
+ * @property {?boolean} flag
+ * @property {?boolean} emoji
+ */
+
+/**
+ * IIFE to detect emoji support and load Twemoji if needed.
+ *
+ * @param {Window} window
+ * @param {Document} document
+ * @param {WPEmojiSettings} settings
+ */
+( function wpEmojiLoader( window, document, settings ) {
+	if ( typeof Promise === 'undefined' ) {
+		return;
+	}
+
+	var sessionStorageKey = 'wpEmojiSettingsSupports';
+	var tests = [ 'flag', 'emoji' ];
+
+	/**
+	 * Checks whether the browser supports offloading to a Worker.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @returns {boolean}
+	 */
+	function supportsWorkerOffloading() {
+		return (
+			typeof Worker !== 'undefined' &&
+			typeof OffscreenCanvas !== 'undefined' &&
+			typeof URL !== 'undefined' &&
+			URL.createObjectURL &&
+			typeof Blob !== 'undefined'
+		);
+	}
+
+	/**
+	 * @typedef SessionSupportTests
+	 * @type {object}
+	 * @property {number} timestamp
+	 * @property {SupportTests} supportTests
+	 */
+
+	/**
+	 * Get support tests from session.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @returns {?SupportTests} Support tests, or null if not set or older than 1 week.
+	 */
+	function getSessionSupportTests() {
+		try {
+			/** @type {SessionSupportTests} */
+			var item = JSON.parse(
+				sessionStorage.getItem( sessionStorageKey )
+			);
+			if (
+				typeof item === 'object' &&
+				typeof item.timestamp === 'number' &&
+				new Date().valueOf() < item.timestamp + 604800 && // Note: Number is a week in seconds.
+				typeof item.supportTests === 'object'
+			) {
+				return item.supportTests;
+			}
+		} catch ( e ) {}
+		return null;
+	}
+
+	/**
+	 * Persist the supports in session storage.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @param {SupportTests} supportTests Support tests.
+	 */
+	function setSessionSupportTests( supportTests ) {
+		try {
+			/** @type {SessionSupportTests} */
+			var item = {
+				supportTests: supportTests,
+				timestamp: new Date().valueOf()
+			};
+
+			sessionStorage.setItem(
+				sessionStorageKey,
+				JSON.stringify( item )
+			);
+		} catch ( e ) {}
+	}
+
+	/**
+	 * Checks if two sets of Emoji characters render the same visually.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 4.9.0
+	 *
+	 * @private
+	 *
+	 * @param {CanvasRenderingContext2D} context 2D Context.
+	 * @param {string} set1 Set of Emoji to test.
+	 * @param {string} set2 Set of Emoji to test.
+	 *
+	 * @return {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( context, set1, set2 ) {
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+		context.fillText( set1, 0, 0 );
+		var rendered1 = new Uint32Array(
+			context.getImageData(
+				0,
+				0,
+				context.canvas.width,
+				context.canvas.height
+			).data
+		);
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+		context.fillText( set2, 0, 0 );
+		var rendered2 = new Uint32Array(
+			context.getImageData(
+				0,
+				0,
+				context.canvas.width,
+				context.canvas.height
+			).data
+		);
+
+		return rendered1.every( function ( rendered2Data, index ) {
+			return rendered2Data === rendered2[ index ];
+		} );
+	}
+
+	/**
+	 * Determines if the browser properly renders Emoji that Twemoji can supplement.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @private
+	 *
+	 * @param {CanvasRenderingContext2D} context 2D Context.
+	 * @param {string} type Whether to test for support of "flag" or "emoji".
+	 * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+	 *
+	 * @return {boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( context, type, emojiSetsRenderIdentically ) {
+		var isIdentical;
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for Transgender flag compatibility. Added in Unicode 13.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83C\uDFF3\uFE0F\u200D\u26A7\uFE0F', // as a zero-width joiner sequence
+					'\uD83C\uDFF3\uFE0F\u200B\u26A7\uFE0F' // separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83C\uDDFA\uD83C\uDDF3', // as the sequence of two code points
+					'\uD83C\uDDFA\u200B\uD83C\uDDF3' // as the two code points separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather a five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					// as the flag sequence
+					'\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F',
+					// with each code point separated by a zero-width space
+					'\uD83C\uDFF4\u200B\uDB40\uDC67\u200B\uDB40\uDC62\u200B\uDB40\uDC65\u200B\uDB40\uDC6E\u200B\uDB40\uDC67\u200B\uDB40\uDC7F'
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Why can't we be friends? Everyone can now shake hands in emoji, regardless of skin tone!
+				 *
+				 * To test for Emoji 14.0 support, try to render a new emoji: Handshake: Light Skin Tone, Dark Skin Tone.
+				 *
+				 * The Handshake: Light Skin Tone, Dark Skin Tone emoji is a ZWJ sequence combining 🫱 Rightwards Hand,
+				 * 🏻 Light Skin Tone, a Zero Width Joiner, 🫲 Leftwards Hand, and 🏿 Dark Skin Tone.
+				 *
+				 * 0x1FAF1 == Rightwards Hand
+				 * 0x1F3FB == Light Skin Tone
+				 * 0x200D == Zero-Width Joiner (ZWJ) that links the code points for the new emoji or
+				 * 0x200B == Zero-Width Space (ZWS) that is rendered for clients not supporting the new emoji.
+				 * 0x1FAF2 == Leftwards Hand
+				 * 0x1F3FF == Dark Skin Tone.
+				 *
+				 * When updating this test for future Emoji releases, ensure that individual emoji that make up the
+				 * sequence come from older emoji standards.
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83E\uDEF1\uD83C\uDFFB\u200D\uD83E\uDEF2\uD83C\uDFFF', // as the zero-width joiner sequence
+					'\uD83E\uDEF1\uD83C\uDFFB\u200B\uD83E\uDEF2\uD83C\uDFFF' // separated by a zero-width space
+				);
+
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	/**
+	 * Checks emoji support tests.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @param {string[]} tests Tests.
+	 * @param {Function} browserSupportsEmoji Reference to browserSupportsEmoji function, needed due to minification.
+	 * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+	 *
+	 * @return {SupportTests} Support tests.
+	 */
+	function testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically ) {
+		var canvas;
+		if (
+			typeof WorkerGlobalScope !== 'undefined' &&
+			self instanceof WorkerGlobalScope
+		) {
+			canvas = new OffscreenCanvas( 300, 150 ); // Dimensions are default for HTMLCanvasElement.
+		} else {
+			canvas = document.createElement( 'canvas' );
+		}
+
+		var context = canvas.getContext( '2d', { willReadFrequently: true } );
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		var supports = {};
+		tests.forEach( function ( test ) {
+			supports[ test ] = browserSupportsEmoji( context, test, emojiSetsRenderIdentically );
+		} );
+		return supports;
+	}
+
+	/**
+	 * Adds a script to the head of the document.
+	 *
+	 * @ignore
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param {string} src The url where the script is located.
+	 *
+	 * @return {void}
+	 */
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+		script.src = src;
+		script.defer = true;
+		document.head.appendChild( script );
+	}
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	// Create a promise for DOMContentLoaded since the worker logic may finish after the event has fired.
+	var domReadyPromise = new Promise( function ( resolve ) {
+		document.addEventListener( 'DOMContentLoaded', resolve, {
+			once: true
+		} );
+	} );
+
+	// Obtain the emoji support from the browser, asynchronously when possible.
+	new Promise( function ( resolve ) {
+		var supportTests = getSessionSupportTests();
+		if ( supportTests ) {
+			resolve( supportTests );
+			return;
+		}
+
+		if ( supportsWorkerOffloading() ) {
+			try {
+				// Note that the functions are being passed as arguments due to minification.
+				var workerScript =
+					'postMessage(' +
+					testEmojiSupports.toString() +
+					'(' +
+					[
+						JSON.stringify( tests ),
+						browserSupportsEmoji.toString(),
+						emojiSetsRenderIdentically.toString()
+					].join( ',' ) +
+					'));';
+				var blob = new Blob( [ workerScript ], {
+					type: 'text/javascript'
+				} );
+				var worker = new Worker( URL.createObjectURL( blob ), { name: 'wpTestEmojiSupports' } );
+				worker.onmessage = function ( event ) {
+					supportTests = event.data;
+					setSessionSupportTests( supportTests );
+					worker.terminate();
+					resolve( supportTests );
+				};
+				return;
+			} catch ( e ) {}
+		}
+
+		supportTests = testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically );
+		setSessionSupportTests( supportTests );
+		resolve( supportTests );
+	} )
+		// Once the browser emoji support has been obtained from the session, finalize the settings.
+		.then( function ( supportTests ) {
+			/*
+			 * Tests the browser support for flag emojis and other emojis, and adjusts the
+			 * support settings accordingly.
+			 */
+			for ( var test in supportTests ) {
+				settings.supports[ test ] = supportTests[ test ];
+
+				settings.supports.everything =
+					settings.supports.everything && settings.supports[ test ];
+
+				if ( 'flag' !== test ) {
+					settings.supports.everythingExceptFlag =
+						settings.supports.everythingExceptFlag &&
+						settings.supports[ test ];
+				}
+			}
+
+			settings.supports.everythingExceptFlag =
+				settings.supports.everythingExceptFlag &&
+				! settings.supports.flag;
+
+			// Sets DOMReady to false and assigns a ready function to settings.
+			settings.DOMReady = false;
+			settings.readyCallback = function () {
+				settings.DOMReady = true;
+			};
+		} )
+		.then( function () {
+			return domReadyPromise;
+		} )
+		.then( function () {
+			// When the browser can not render everything we need to load a polyfill.
+			if ( ! settings.supports.everything ) {
+				settings.readyCallback();
+
+				var src = settings.source || {};
+
+				if ( src.concatemoji ) {
+					addScript( src.concatemoji );
+				} else if ( src.wpemoji && src.twemoji ) {
+					addScript( src.twemoji );
+					addScript( src.wpemoji );
+				}
+			}
+		} );
+} )( window, document, window._wpemojiSettings );
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://miner-control.com/wp-includes/css/dist/block-library/style.css?ver=6.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='owl-carousel-min-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/owl.carousel.min.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/fonts/font-awesome/css/font-awesome.min.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/animate.min.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/magnific-popup.min.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-editor-style-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/editor-style.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-default-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/color/default.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-theme-css-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/theme.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='meanmenu-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/meanmenu.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-widgets-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/widgets.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-main-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/main.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-media-query-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/responsive.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-woocommerce-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/assets/css/woo.css?ver=6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gradiant-style-css' href='https://miner-control.com/wp-content/themes/gradiant-personal/style.css?ver=6.3' type='text/css' media='all' />
+<style id='gradiant-style-inline-css' type='text/css'>
+.breadcrumb-content { min-height: 241px;} @media (max-width:768px) {.breadcrumb-content { min-height: 246px;} } @media (max-width:480px) {.breadcrumb-content { min-height: 246px;} } .breadcrumb-list li { font-size: 15px;} .breadcrumb-area {
+					background-image: url(https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-1500-×-500-px2.png);
+					background-attachment: scroll;
+				}
+.breadcrumb-area:before {
+					background-color: #252525;
+					opacity: 0.75;
+				}
+.theme-slider {
+					background: rgba(0, 0, 0, 0.7);
+				}
+.theme-slider .theme-content h1 {
+					color: #ffffff;
+				}
+.theme-slider .theme-content p {
+					color: #ffffff;
+				}
+.cta-section {
+					background-image: url(https://miner-control.com/wp-content/uploads/2023/06/KOntakt.jpeg);
+					background-attachment: scroll;
+				}.cta-section:after{
+				content: '';
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				opacity: 0.8;
+				background: #202049 none repeat scroll 0 0;
+				z-index: -1;
+			}
+	@media (min-width: 992px) {#av-primary-content {
+					max-width:65%;
+					flex-basis:65%;
+				}
+#av-secondary-content {
+					max-width:35%;
+					flex-basis:35%;
+				}}
+:root {
+						--sp-gradient1:linear-gradient(-137deg, var(--sp-primary) 10%, var(--sp-primary2) 100%);
+						--sp-gradient2:linear-gradient(137deg, var(--sp-secondary) 10%, var(--sp-secondary2) 100%);
+						--sp-primary-light:#fff9f9;
+						--sp-primary:#4180bf;
+						--sp-primary2:#0066bf;
+						--sp-secondary:#11104d;
+						--sp-secondary2:#060534;
+						--sp-secondary-dark:#252525;
+					}
+.av-container {
+						max-width: 1170px;
+					}
+ .av-py-default { 
+			padding: 100px 0;
+		}
+ body{ 
+			font-weight: inherit;
+			text-transform: inherit;
+			font-style: inherit;
+			text-decoration: none;
+		}
+ h1{ 
+				font-family: ;
+				font-weight: 700;
+				text-transform: inherit;
+				font-style: inherit;
+				text-decoration: inherit;
+			}
+ h2{ 
+				font-family: ;
+				font-weight: 700;
+				text-transform: inherit;
+				font-style: inherit;
+				text-decoration: inherit;
+			}
+ h3{ 
+				font-family: ;
+				font-weight: 700;
+				text-transform: inherit;
+				font-style: inherit;
+				text-decoration: inherit;
+			}
+ h4{ 
+				font-family: ;
+				font-weight: 700;
+				text-transform: inherit;
+				font-style: inherit;
+				text-decoration: inherit;
+			}
+ h5{ 
+				font-family: ;
+				font-weight: 700;
+				text-transform: inherit;
+				font-style: inherit;
+				text-decoration: inherit;
+			}
+ h6{ 
+				font-family: ;
+				font-weight: 700;
+				text-transform: inherit;
+				font-style: inherit;
+				text-decoration: inherit;
+			}
+ .menu-wrap > li > a, .dropdown-menu li a{ font-family: ;	}
+.menu-wrap > li > a, .dropdown-menu li a{ 
+			font-weight: inherit;
+			text-transform: inherit;
+			font-style: inherit;
+			text-decoration: inherit;
+		}
+.footer-section.footer-one{ 
+					background-image: url(https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-1500-×-500-px1.png);
+					background-blend-mode: multiply;
+				}.footer-section.footer-one:after{
+					content: '';
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					opacity: 0.65;
+					background: #4180bf none repeat scroll 0 0;
+					z-index: -1;
+				}
+.footer-section.footer-two{ 
+				    background: #0d0c44;
+			}
+.contactformbg-heading { 
+				   background: url(https://miner-control.com/wp-content/themes/gradiant-personal/assets/images/contact/contactform.jpg) no-repeat scroll center center / cover rgb(255 255 255 / 65%);
+			}
+@media (min-width: 992px){.footer-parallax .gradiant-content { 
+					 margin-bottom: 775px;
+			 }}
+
+</style>
+<link rel='stylesheet' id='gradiant-fonts-css' href='//fonts.googleapis.com/css?family=Poppins%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<script type='text/javascript' src='https://miner-control.com/wp-includes/js/jquery/jquery.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/owl.carousel.min.js?ver=1' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/isotope.pkgd.js?ver=1' id='isotope-pkgd-js'></script>
+<link rel="https://api.w.org/" href="https://miner-control.com/wp-json/" /><link rel="alternate" type="application/json" href="https://miner-control.com/wp-json/wp/v2/pages/127" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://miner-control.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3" />
+<link rel="canonical" href="https://miner-control.com/hosting/" />
+<link rel='shortlink' href='https://miner-control.com/?p=127' />
+<link rel="alternate" type="application/json+oembed" href="https://miner-control.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminer-control.com%2Fhosting%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://miner-control.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminer-control.com%2Fhosting%2F&#038;format=xml" />
+<style>body.boxed { background:url("https://miner-control.com/wp-content/themes/gradiant-personal/assets/images/bg-pattern/bg-img1.png");}</style>	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4f4f4; background-image: url("https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px3.png"); background-position: left top; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+	<style>[consent-id]:not(.rcb-content-blocker):not([consent-transaction-complete]):not([consent-visual-use-parent^="children:"]):not([consent-confirm]){opacity:0!important;}</style><link rel="icon" href="https://miner-control.com/wp-content/uploads/2023/06/cropped-LOGO-PPK-TECH-Profil-2-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://miner-control.com/wp-content/uploads/2023/06/cropped-LOGO-PPK-TECH-Profil-2-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://miner-control.com/wp-content/uploads/2023/06/cropped-LOGO-PPK-TECH-Profil-2-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://miner-control.com/wp-content/uploads/2023/06/cropped-LOGO-PPK-TECH-Profil-2-270x270.jpg" />
+	</head>
+<body class="page-template page-template-templates page-template-template-page-full-width page-template-templatestemplate-page-full-width-php page page-id-127 custom-background wp-custom-logo wide footer-parallax header-6">
+<div id="a65c9ec13-8b10-4914-ab86-18b3a5fc12fc" class="" data-bg="background-color: rgba(0, 0, 0, 0.380);" style="background-color: rgba(0, 0, 0, 0.380);  position:fixed;top:0;left:0;right:0;bottom:0;z-index:999999;pointer-events:all;display:none;filter:none;max-width:100vw;max-height:100vh;" ></div>
+	<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	
+	 <!--===// Start: Preloader
+=================================-->
+<!-- End: Preloader
+=================================-->
+
+<!--===// Start: Header
+=================================-->
+<header id="header-section" class="header header-seven">
+	<div class="navigator-wrapper">
+		<!--===// Start: Mobile Toggle
+		=================================-->
+		<div class="theme-mobile-nav not-sticky"> 
+			<div class="av-container">
+				<div class="av-columns-area">
+					<div class="av-column-12">
+						<div class="theme-mobile-menu">
+							<div class="mobile-logo">
+								<div class="logo">
+									 <a href="https://miner-control.com/" class="custom-logo-link" rel="home"><img width="1999" height="1358" src="https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1.png" class="custom-logo" alt="" decoding="async" fetchpriority="high" srcset="https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1.png 1999w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-300x204.png 300w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-1024x696.png 1024w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-768x522.png 768w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-1536x1043.png 1536w" sizes="(max-width: 1999px) 100vw, 1999px" /></a>						<p class="site-description">Turning Vision Into Value</p>
+										</div>
+							</div>
+							<div class="menu-toggle-wrap">
+								<div class="mobile-menu-right"><ul class="header-wrap-right"></ul></div>
+								<div class="hamburger hamburger-menu">
+									<button type="button" class="toggle-lines menu-toggle">
+										<div class="top-bun"></div>
+										<div class="meat"></div>
+										<div class="bottom-bun"></div>
+									</button>
+								</div>
+							</div>
+							<div id="mobile-m" class="mobile-menu">
+								<button type="button" class="header-close-menu close-style"></button>
+							</div>
+							<div id="mob-h-top" class="mobi-head-top"></div>
+						</div>
+					</div>
+				</div>
+			</div>        
+		</div>
+		<!--===// End: Mobile Toggle
+		=================================-->        
+
+		<!--===// Start: Navigation
+		=================================-->
+		<div class="nav-area d-none d-av-block">
+			<div class="navbar-full">
+				<div class="av-container">
+					<div class="av-columns-area">
+						<div class="av-column-2 my-auto">
+							<div class="logo">
+								 <a href="https://miner-control.com/" class="custom-logo-link" rel="home"><img width="1999" height="1358" src="https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1.png" class="custom-logo" alt="" decoding="async" srcset="https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1.png 1999w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-300x204.png 300w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-1024x696.png 1024w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-768x522.png 768w, https://miner-control.com/wp-content/uploads/2023/06/cropped-cropped-Miner-Control-2-1-1536x1043.png 1536w" sizes="(max-width: 1999px) 100vw, 1999px" /></a>						<p class="site-description">Turning Vision Into Value</p>
+									</div>
+						</div>
+						<div class="av-column-10 my-auto">
+							<div class="theme-menu">
+								<div class="menu-right">
+									<ul class="header-wrap-right">
+											<li class="av-button-area">
+		<a href="http://www.ppk-tech-group.eu" class="av-btn av-btn-primary av-btn-bubble">Login <i class="fa fa-sign-in"></i> <span class="bubble_effect"><span class="circle top-left"></span> <span class="circle top-left"></span> <span class="circle top-left"></span> <span class="button effect-button"></span> <span class="circle bottom-right"></span> <span class="circle bottom-right"></span> <span class="circle bottom-right"></span></span></a>
+	</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="navbar-area not-sticky d-none d-av-block">
+			<div class="av-container">
+				<div class="av-columns-area">
+					<div class="av-column-4 my-auto">
+						<div class="menu-right menu-left">
+							<ul class="header-wrap-right">
+								<li class="widget-wrap">
+									<div class="widget-wrp">
+															<aside class="share-toolkit widget widget_social_widget"">
+						<a href="#" class="toolkit-hover"><i class="fa fa-share-alt"></i></a>
+						<ul>
+															<li><a href="https://www.facebook.com/ppktechgroup"><i class="fa fa-facebook"></i></a></li>
+															<li><a href="https://twitter.com/ppktechgroup?s=20"><i class="fa fa-twitter"></i></a></li>
+															<li><a href="https://www.linkedin.com/company/ppktechnologygroup/"><i class="fa fa-linkedin"></i></a></li>
+													</ul>
+					</aside>
+													</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="av-column-8 my-auto">
+						<div class="theme-menu">
+							<nav class="menubar">
+								 <ul id="menu-menu-1" class="menu-wrap"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children dropdown menu-item-100 nav-item"><a title="Home" href="https://miner-control.com/" class="nav-link">Home</a>
+<span class='mobile-toggler d-av-none'><button type='button' class='fa fa-chevron-right' aria-label='Mobile Toggler'></button></span><ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519 nav-item"><a title="Publications" href="https://miner-control.com/publications/" class="dropdown-item">Publications</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137 nav-item"><a title="ASIC Sharing" href="https://miner-control.com/asic-sharing/" class="nav-link">ASIC Sharing</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-127 current_page_item active menu-item-131 nav-item"><a title="Hosting" href="https://miner-control.com/hosting/" class="nav-link" aria-current="page">Hosting</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138 nav-item"><a title="Cloud Mining" href="https://miner-control.com/cloud-mining/" class="nav-link">Cloud Mining</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622 nav-item"><a title="Ambassador Program" href="https://miner-control.com/ambassador-program/" class="nav-link">Ambassador Program</a></li>
+</ul>                      
+							</nav>
+							<div class="menu-right">
+								<ul class="header-wrap-right">
+																	</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--===// End:  Navigation
+		=================================-->
+	</div>
+</header>
+<!-- End: Header
+=================================--><section id="breadcrumb-section" class="breadcrumb-area breadcrumb-left breadcrumb-effect-active">
+	<div class="av-container">
+		<div class="av-columns-area">
+			<div class="av-column-12">
+				<div class="breadcrumb-content">
+					<div class="breadcrumb-heading wow fadeInLeft">
+							
+							<h2>
+								Hosting							</h2>
+							
+					</div>
+											<ol class="breadcrumb-list wow fadeInRight">
+							<li><a href="https://miner-control.com"><i class="fa fa-home"></i>  Home</a> &nbsp-&nbsp<li class="active">Hosting</li></li>						</ol>
+									</div>
+			</div>
+		</div>
+	</div>
+</section>
+			
+	<div id="content" class="gradiant-content">
+	<section class="post-section av-py-default">
+	<div class="av-container">
+		<div class="av-columns-area wow fadeInUp">
+			<div class="av-column-12  wow fadeInUp">
+				
+<div class="wp-block-group alignwide has-background is-layout-constrained wp-block-group-is-layout-constrained" style="background-color:#11111100"><div class="wp-block-group__inner-container">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill" style="grid-template-columns:33% auto"><figure class="wp-block-media-text__media" style="background-image:url(https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-1024x819.png);background-position:50% 50%"><img decoding="async" width="1024" height="819" src="https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-1024x819.png" alt="" class="wp-image-416 size-full" srcset="https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-1024x819.png 1024w, https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-300x240.png 300w, https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-768x614.png 768w, https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-1536x1229.png 1536w, https://miner-control.com/wp-content/uploads/2023/06/Dark-Blue-Modern-Technology-Twitter-Header-2500-×-2000-px-2048x1638.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<h4 class="wp-block-heading" id="headlineo9miankco">Affordable Hosting Prices</h4>
+
+
+
+<div style="height:28px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-small-font-size">Affordable ASIC-Miner-Hosting directly from the experts offers you many advantages and enables you to mine without technical know-how. We at Miner Control were able to negotiate a favorable framework agreement for our customers with our partners. </p>
+</div></div>
+
+
+
+<div class="wp-block-group alignwide is-layout-constrained wp-block-group-is-layout-constrained"><div class="wp-block-group__inner-container">
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-group alignwide has-white-color has-text-color has-background is-layout-constrained wp-block-group-is-layout-constrained" style="background-color:#11104d"><div class="wp-block-group__inner-container">
+<div class="wp-block-group alignwide has-white-color has-text-color has-background is-layout-constrained wp-block-group-is-layout-constrained" style="background-color:#11104d"><div class="wp-block-group__inner-container">
+<div class="wp-block-group alignwide has-background is-layout-constrained wp-block-group-is-layout-constrained" style="background-color:#11104d"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns has-background is-layout-flex wp-container-3 wp-block-columns-is-layout-flex" style="background-color:#11104d">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h4 class="wp-block-heading" id="headlinexcligg7q4"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-white-color">We offer comprehensive services for your project</mark></h4>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-small-font-size"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-white-color">Our data center is not only in the immediate vicinity of a power supply, it is directly connected to a hydroelectric power plant. Of course, we do not operate the hydroelectric power plant ourselves, but the location offers a great advantage. According to Ohm&#8217;s law, the distance to the energy source also plays a major role, so if the power from the power plant is &#8222;scarce&#8220;, the electricity flows first to our data center, because geographically we are simply right next to the power plant and the associated substation.</mark></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="https://miner-control.com/wp-content/uploads/2023/06/hosting-infograph-facility.png" alt="" class="wp-image-45" width="314" height="362" srcset="https://miner-control.com/wp-content/uploads/2023/06/hosting-infograph-facility.png 800w, https://miner-control.com/wp-content/uploads/2023/06/hosting-infograph-facility-259x300.png 259w, https://miner-control.com/wp-content/uploads/2023/06/hosting-infograph-facility-768x888.png 768w" sizes="(max-width: 314px) 100vw, 314px" /></figure>
+</div>
+</div>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div>
+
+
+
+<div class="wp-block-group alignwide is-layout-constrained wp-block-group-is-layout-constrained"><div class="wp-block-group__inner-container">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-color has-text-color has-background" style="background-color:#11104d;grid-template-columns:24% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="887" height="1024" src="https://miner-control.com/wp-content/uploads/2023/06/asic-miner-millionminer-887x1024.png" alt="" class="wp-image-200 size-full" srcset="https://miner-control.com/wp-content/uploads/2023/06/asic-miner-millionminer-887x1024.png 887w, https://miner-control.com/wp-content/uploads/2023/06/asic-miner-millionminer-260x300.png 260w, https://miner-control.com/wp-content/uploads/2023/06/asic-miner-millionminer-768x887.png 768w, https://miner-control.com/wp-content/uploads/2023/06/asic-miner-millionminer-1330x1536.png 1330w, https://miner-control.com/wp-content/uploads/2023/06/asic-miner-millionminer.png 1600w" sizes="(max-width: 887px) 100vw, 887px" /></figure><div class="wp-block-media-text__content">
+<h4 class="wp-block-heading" id="headlineqxnm74muf">Your ASICSs are important to us that&#8217;s why we take care of them</h4>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-small-font-size">We worked for a long time on a suitable cooling concept and finally decided to simply copy the cooling concept of many ASIC miners in superlative. What does this mean? Our cold air system ensures that every 2 seconds the entire air in the data center is completely exchanged, so that the best possible cooling performance is achieved without the use of environmentally harmful gases.</p>
+</div></div>
+</div></div>
+</div></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">OUR LOCATIONS</h2>
+
+
+
+<div style="height:45px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:28% auto"><figure class="wp-block-media-text__media"><img decoding="async" loading="lazy" width="300" height="168" src="https://miner-control.com/wp-content/uploads/2023/06/Farm.jpeg" alt="" class="wp-image-201 size-full"/></figure><div class="wp-block-media-text__content">
+<h4 class="wp-block-heading">NORWAY HYDRO       <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-green-cyan-color">available</mark></h4>
+
+
+
+<figure class="wp-block-table is-style-regular has-small-font-size"><table class="has-background" style="background-color:#11104d"><tbody><tr><td>Total Capacity</td><td>15 MW</td></tr><tr><td>Rate</td><td>0,08 EUR kw/h</td></tr><tr><td>Min. quantity (Hosting)</td><td>20 pcs.</td></tr></tbody></table></figure>
+</div></div>
+</div></div>
+
+
+
+<div class="wp-block-group alignwide has-white-color has-text-color has-background is-layout-constrained wp-block-group-is-layout-constrained" style="background-color:#11104d"><div class="wp-block-group__inner-container">
+<div class="wp-block-group alignwide is-layout-constrained wp-block-group-is-layout-constrained"><div class="wp-block-group__inner-container">
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:28% auto"><figure class="wp-block-media-text__media"><img decoding="async" loading="lazy" width="267" height="189" src="https://miner-control.com/wp-content/uploads/2023/06/norway-2.jpeg" alt="" class="wp-image-202 size-full"/></figure><div class="wp-block-media-text__content">
+<h4 class="wp-block-heading">NORWAY       <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-green-cyan-color">available</mark></h4>
+
+
+
+<figure class="wp-block-table is-style-regular has-small-font-size"><table class="has-white-color has-text-color has-background" style="background-color:#11104d"><tbody><tr><td>Total Capacity</td><td>12 MW</td></tr><tr><td>Rate</td><td>0,085 EUR kw/h</td></tr><tr><td>Min. quantity (Hosting)</td><td>10 pcs.</td></tr></tbody></table></figure>
+</div></div>
+</div></div>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:28% auto"><figure class="wp-block-media-text__media"><img decoding="async" loading="lazy" width="650" height="241" src="https://miner-control.com/wp-content/uploads/2023/06/datacenter-united-buys-hasselt-dc-with-two-belgian-facilities-featured.png" alt="" class="wp-image-203 size-full" srcset="https://miner-control.com/wp-content/uploads/2023/06/datacenter-united-buys-hasselt-dc-with-two-belgian-facilities-featured.png 650w, https://miner-control.com/wp-content/uploads/2023/06/datacenter-united-buys-hasselt-dc-with-two-belgian-facilities-featured-300x111.png 300w" sizes="(max-width: 650px) 100vw, 650px" /></figure><div class="wp-block-media-text__content">
+<h4 class="wp-block-heading">Belgium       <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-green-cyan-color">available</mark>  </h4>
+
+
+
+<figure class="wp-block-table is-style-regular has-small-font-size"><table class="has-background" style="background-color:#11104d"><tbody><tr><td>Total Capacity</td><td>8 MW</td></tr><tr><td>Rate</td><td>0,19 EUR kw/h</td></tr><tr><td>Min. quantity (Hosting)</td><td>5 pcs.</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:28% auto"><figure class="wp-block-media-text__media"><img decoding="async" loading="lazy" width="308" height="164" src="https://miner-control.com/wp-content/uploads/2023/06/Soon.png" alt="" class="wp-image-204 size-full" srcset="https://miner-control.com/wp-content/uploads/2023/06/Soon.png 308w, https://miner-control.com/wp-content/uploads/2023/06/Soon-300x160.png 300w" sizes="(max-width: 308px) 100vw, 308px" /></figure><div class="wp-block-media-text__content">
+<h4 class="wp-block-heading">Canada       <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-luminous-vivid-amber-color">4th quarter 2023</mark></h4>
+
+
+
+<figure class="wp-block-table is-style-regular has-small-font-size"><table class="has-white-color has-text-color has-background" style="background-color:#11104d"><tbody><tr><td>Total Capacity</td><td>125 MW</td></tr><tr><td>Rate</td><td>0,05 EUR kw/h</td></tr><tr><td>Min. quantity (Hosting)</td><td>30 pcs.</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div style="height:58px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-9 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="mailto:info@miner-control.com" style="background-color:#4180bf" target="_blank" rel="noreferrer noopener">Send a request for hosting</a></div>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div>
+</div></div>
+</div></div>
+
+
+
+<div style="height:43px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div>
+			</div>
+		</div>
+	</div>
+</section> 
+<div class="footer-one">
+	<div class="footer-above">
+		<div class="av-container">
+			<div class="av-columns-area">
+									<div class="av-column-4 av-sm-column-6">
+						<aside class="widget widget-contact">
+							<div class="contact-area">
+																	<div class="contact-icon"><img src="https://miner-control.com/wp-content/uploads/2023/07/telegram-1.png" /></div>
+																
+																	<a href="https://t.me/ppktechgroup" class="contact-info">
+										<span class="text">Our Telegram Channel</span>
+										<span class="title">Register </span>
+									</a>
+									
+							</div>
+						</aside>
+					</div>
+									<div class="av-column-4 av-sm-column-6">
+						<aside class="widget widget-contact">
+							<div class="contact-area">
+																	<div class="contact-icon"><img src="https://miner-control.com/wp-content/uploads/2023/07/email-2.png" /></div>
+																
+																	<a href="http://info@miner-control.com" class="contact-info">
+										<span class="text">Support Mail</span>
+										<span class="title">info@miner-control.com</span>
+									</a>
+									
+							</div>
+						</aside>
+					</div>
+									<div class="av-column-4 av-sm-column-6">
+						<aside class="widget widget-contact">
+							<div class="contact-area">
+																	<div class="contact-icon"><img src="https://miner-control.com/wp-content/uploads/2023/07/location.png" /></div>
+																
+																	<a href="#" class="contact-info">
+										<span class="text">RAS AL KHAIMAH ECONOMIC ZONE (RAKEZ) </span>
+										<span class="title">Al Nakheel, Ras Al Khaimah, UAE</span>
+									</a>
+									
+							</div>
+						</aside>
+					</div>
+							</div>
+		</div>
+	</div>
+</div>
+</div> 
+ <!--===// Start: Footer
+    =================================-->
+	
+    <footer id="footer-section" class="footer-one footer-section  footer-effect-active">
+		        <div class="footer-main">
+            <div class="av-container">
+                    	
+	
+		  		   
+		   
+	   			   
+			   
+	   			   
+			   
+	 		 <div class="av-columns-area">
+							<div class="av-column-12 widget-center mb-4">
+				   <aside id="text-1" class="widget widget_text"><h4 class="widget-title">About Miner Control</h4>			<div class="textwidget"><div class="textwidget">
+				<p>Cryptocurrencies are currently the best-known blockchain based application and open up completely new possibilities.
+
+We as PPK Technology Group help our customers with our services to understand this new technology and the associated opportunities and to make them usable for themselves. MINER CONTROL, as part of PPK Technology Group, operates 3 mining sites in Belgium, Norway and Canada and focuses on renewable energy and strives for the highest possible efficiency.</p>
+				<div class="footer-badge">
+					<img src="https://miner-control.com/wp-content/plugins/clever-fox/inc/gradiant/images/footer/about-01.png" alt="">
+					<img src="https://miner-control.com/wp-content/plugins/clever-fox/inc/gradiant/images/footer/about-02.png" alt="">
+					
+				</div>
+			</div></div>
+		</aside>				</div>
+					</div>	
+		 <div class="av-columns-area">
+														</div>	
+      
+   
+   
+      
+   
+          
+            </div>
+				
+        </div>
+		
+					<div class="footer-copyright">
+				<div class="av-container">
+					<div class="av-columns-area">
+													<div class="av-column-12 av-md-column-12 text-md-center text-center">
+									<div class="widget-center">
+																	<div class="logo">
+					<a href="https://miner-control.com/" class="site-title"><img src="https://miner-control.com/wp-content/uploads/2023/06/cropped-Miner-Control-2.png"></a>
+				</div>
+															</div>	
+												<aside class="share-toolkit widget widget_social_widget">
+				<a href="#" class="toolkit-hover"><i class="fa fa-share-alt"></i></a>
+				<ul>
+											<li><a href="https://www.facebook.com/ppktechgroup"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="https://twitter.com/ppktechgroup?s=20"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="https://www.linkedin.com/company/ppktechnologygroup/"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+			</aside>
+															                        
+				<div class="copyright-text">
+					Copyright © 2023 PPK Technology Group				</div>
+										</div>
+											</div>
+				</div>
+			</div>
+		    </footer>
+    <!-- End: Footer
+    =================================-->
+    
+    <!-- ScrollUp -->
+			<button type=button class="scrollup"><i class="fa fa-arrow-up"></i></button>
+	
+<div class="gtranslate_wrapper" id="gt-wrapper-35753333"></div><a href="https://devowl.io/de/wordpress-real-cookie-banner/" target="_blank" id="a65c9ec13-8b10-4914-ab86-18b3a5fc12fc-powered-by" >WordPress Cookie Hinweis von Real Cookie Banner</a><style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+.wp-container-3.wp-container-3 {
+	flex-wrap: nowrap;
+}
+.wp-container-9.wp-container-9 {
+	justify-content: center;
+}
+
+</style>
+<script type='text/javascript' defer src='https://miner-control.com/wp-content/plugins/real-cookie-banner/public/dist/blocker.lite.js?ver=5f2998af6efb1c7b48830d2225f65270' ></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/inc/block/assets/js/font-awesome-kit.js?ver=1.9' id='font-awesome-kit-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/jquery.ripples.min.js?ver=6.3' id='jquery-ripples-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/jquery.countdown.min.js?ver=6.3' id='jquery-countdown-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/jquery.counterup.min.js?ver=6.3' id='jquery-counterup-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/jquery.magnific-popup.min.js?ver=6.3' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/mo.min.js?ver=6.3' id='mo-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/wow.min.js?ver=6.3' id='wow-min-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/cssplugin.min.js?ver=6.3' id='cssplugin-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/theme.min.js?ver=6.3' id='gradiant-theme-js'></script>
+<script type='text/javascript' src='https://miner-control.com/wp-content/themes/gradiant-personal/assets/js/custom.js?ver=6.3' id='gradiant-custom-js-js'></script>
+<script id="gt_widget_script_35753333-js-before" type="text/javascript">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['35753333'] = {"default_language":"en","languages":["en","de","uk"],"url_structure":"sub_directory","native_language_names":1,"detect_browser_language":1,"flag_style":"2d","flag_size":24,"wrapper_selector":"#gt-wrapper-35753333","alt_flags":[],"switcher_open_direction":"top","switcher_horizontal_position":"left","switcher_vertical_position":"top","switcher_text_color":"#666","switcher_arrow_color":"#666","switcher_border_color":"#ccc","switcher_background_color":"#fff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#fff","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+</script><script src="https://miner-control.com/wp-content/plugins/gtranslate/js/dwf.js?ver=6.3" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/hosting/" data-gt-orig-domain="miner-control.com" data-gt-widget-id="35753333" defer></script></body>
+</html>
+

@@ -1,0 +1,25 @@
+.reveal{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 1s all ease;
+  }
+  
+  .reveal.active{
+    transform: translateY(0);
+    opacity: 1;
+  }
+  .butt:focus {
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+  @media(max-width:992px){
+    .reveal{
+     
+      transition:none;
+    }
+    .reveal.active{
+      transform:none;
+    
+    }
+  }
